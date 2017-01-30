@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 32,
+    "uniqCompNum": 34,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -119,14 +119,23 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Word\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel.html\">Excel</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Photoshop.html\">Industry Certified Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified AI.html\">Industry Certified AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified AP.html\">Industry Certified AP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified AA.html\">Industry Certified AA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified DW.html\">Industry Certified DW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mr. Pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Teacher.html\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Teacher.html\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Member.html\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" target=\"_blank\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Word\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel.html\">Excel</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified Photoshop.html\">Industry Certified Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified AI.html\">Industry Certified AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified AP.html\">Industry Certified AP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified AA.html\">Industry Certified AA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Industry Certified DW.html\">Industry Certified DW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Transcript.html\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mr. Pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Teacher.html\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Teacher.html\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Community Member.html\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" target=\"_blank\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -135,9 +144,9 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1",
           "_params": {
-            "imageSize": "51",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "imageSize": "31",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/rogue-one-a-star-wars-story-filming-locations-2000x1334.jpg",
@@ -148,7 +157,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -159,7 +168,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fullsizerender-1400x2262.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -178,7 +187,7 @@
             }
           },
           "title": "&nbsp;Evan Alfonso",
-          "text": "This is a biography of my life till now. I am student at MAS and I would love to be a Movie Producer. &nbsp; &nbsp; &nbsp;",
+          "text": "&nbsp;I am student at MAS and It would be my dream to become a Movie Producer. &nbsp; &nbsp; &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content7-b\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -187,12 +196,7 @@
             "Theme"
           ],
           "_name": "features6",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            }
-          },
-          "_anchor": "features6-2",
+          "_anchor": "features6-w",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -213,7 +217,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "iconFont": {
@@ -230,7 +234,7 @@
           "title1": "Movie Producer",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Since I was 9 years old i have always wanted to be a movie producer and participate in the '' Behind the scenes'' Buisness.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -251,7 +255,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "pencil",
+              "name": "desktop",
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
@@ -259,25 +263,25 @@
               "color": "#000000"
             }
           },
-          "title3": "Grades",
+          "title3": "Movie Editor",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "When I first started working in Photoshop and editing, I instantly fell in love with it. Ever since that moment i knew i wanted to participate in a job that has to do with editing. &nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "global",
-              "family": "et-line",
+              "name": "dribbble",
+              "family": "socicon",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
               "color": "#000000"
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "NBA",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "I have always loved basketball and its my favorite thing to do in my free time. It would be amazing if i could play professional basketball.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -306,22 +310,34 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-b",
+          "_anchor": "content7-x",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "My name is Evan Alfonso and i have four career goals in life. I would either like to be a Movie Producer, Cartoon Animator, Movie Editor, or an NBA player. I have liked tech since I first got my Ipad Mini. Thats when I got introduced to digital media, games, and movies. I always and till this day i still do wonder how they make special effects in movies or games. When i grow up i want to work with a job that consists of behind the scenes/''Movie Magic''. After 5th grade I tho-",
+          "text2": "ught ''what middle school can i go to so i can learn about tech and ''Movie Magic''. Thats when I heard about Miami Arts Studio @ Zelda Glazer 6-12. I wouldnt want to go to any other school. This school teaches me everything i need to know about special effects. Im in the Technology Production Magnet strand of that school and i wouldnt want anything else than that.&nbsp;",
+          "text3": "",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -359,7 +375,15 @@
           },
           "text1": "<strong>Address</strong><br>5031 sw 141 ave",
           "text2": "<strong>Contacts</strong><br>\nEmail: evalfonso@miamiartsstudio.com<br>\nPhone: 305-796-6627<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-black\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-black\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
