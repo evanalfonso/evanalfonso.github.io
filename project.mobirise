@@ -146,7 +146,7 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1",
           "_params": {
-            "imageSize": "31",
+            "imageSize": "30",
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": false,
