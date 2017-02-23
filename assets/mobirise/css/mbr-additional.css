@@ -1,13 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
-
-
-
-
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -479,46 +473,9 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header3-1b .mbr-section-title,
-#header3-1b .mbr-section-subtitle {
+#header3-1o .mbr-section-title,
+#header3-1o .mbr-section-subtitle {
   text-align: center;
-}
-#msg-box6-1 .mbr-section-title,
-#msg-box6-1 .lead p {
-  color: #fff;
-}
-#msg-box6-1 P {
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box6-1 H3 {
-  font-family: 'Oswald', sans-serif;
-  font-size: 60px;
-  text-align: left;
-}
-#features6-w P {
-  font-family: 'Oswald', sans-serif;
-  text-align: left;
-}
-#content7-x DIV {
-  font-family: 'Oswald', sans-serif;
-}
-#header3-10 .mbr-section-title,
-#header3-10 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-10 H3 {
-  font-size: 36px;
-  font-family: 'Oswald', sans-serif;
-}
-#header3-10 SMALL {
-  font-family: 'Oswald', sans-serif;
-  font-size: 20px;
-}
-#contacts1-a P {
-  color: #000000;
-}
-#contacts1-a STRONG {
-  color: #000000;
 }
 #contacts3-19 P {
   color: #ffffff;
@@ -1449,6 +1406,11 @@ h6,
   color: #c0a375!important;
 }
 
+
+
+
+
+
 #menu-1c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1510,9 +1472,36 @@ h6,
 #menu-1c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#features6-1g P {
+#msg-box6-1q .mbr-section-title,
+#msg-box6-1q .lead p {
+  color: #fff;
+}
+#msg-box6-1q P {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box6-1q H3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 60px;
+  text-align: left;
+}
+#features6-1r P {
   font-family: 'Oswald', sans-serif;
   text-align: left;
+}
+#content7-1s DIV {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-1t .mbr-section-title,
+#header3-1t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1t H3 {
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+}
+#header3-1t SMALL {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
 }
 #contacts3-1e P {
   color: #ffffff;
