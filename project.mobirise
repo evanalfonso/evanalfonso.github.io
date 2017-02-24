@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "3.11.1",
     "path": "file:///E:",
     "screenshot": "screenshot.png"
@@ -173,6 +173,42 @@
           "meta": ""
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/2vDTBPLpUzg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -187,8 +223,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/Ethan%20&%20Evan/AppData/Local/Mobirise.com/Mobirise/projectData/blueprint-2000x2000-800x800.jpg",
-                "image": "file:///C:/Users/Ethan%20&%20Evan/AppData/Local/Mobirise.com/Mobirise/projectData/blueprint-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blueprint-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blueprint-2000x2000.jpg",
                 "caption": "Product Blueprint",
                 "active": false
               },
@@ -197,8 +233,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/Ethan%20&%20Evan/AppData/Local/Mobirise.com/Mobirise/projectData/perspective-image-2000x2000-800x800.jpg",
-                "image": "file:///C:/Users/Ethan%20&%20Evan/AppData/Local/Mobirise.com/Mobirise/projectData/perspective%20image-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/perspective-image-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/perspective-image-2000x2000.jpg",
                 "caption": "Perspective Image Creation",
                 "active": false
               },
@@ -207,8 +243,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/Ethan%20&%20Evan/AppData/Local/Mobirise.com/Mobirise/projectData/image-with-joker-final-2000x2000-800x800.jpg",
-                "image": "file:///C:/Users/Ethan%20&%20Evan/AppData/Local/Mobirise.com/Mobirise/projectData/image%20with%20joker%20final-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-with-joker-final-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-with-joker-final-2000x2000.jpg",
                 "caption": "Morphing Image Creation",
                 "active": false
               },
@@ -217,8 +253,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/Ethan%20&%20Evan/AppData/Local/Mobirise.com/Mobirise/projectData/composite-60s-2000x2000-800x800.jpg",
-                "image": "file:///C:/Users/Ethan%20&%20Evan/AppData/Local/Mobirise.com/Mobirise/projectData/composite%2060s-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/composite-60s-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/composite-60s-2000x2000.jpg",
                 "caption": "Sights And Sounds Of The 60s Composite",
                 "active": true
               }
@@ -2309,8 +2345,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/perspective-image-2000x2000-800x8000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/perspective-image-2000x20004.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/perspective-image-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/perspective-image-2000x2000.jpg",
                 "caption": "Perspective Image Creation",
                 "active": false
               },
@@ -2319,8 +2355,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/composite-60s-2000x2000-800x8001.jpg",
-                "image": "@PROJECT_PATH@/assets/images/composite-60s-2000x20005.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/composite-60s-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/composite-60s-2000x2000.jpg",
                 "caption": "Sights And Sounds Of The 60s Composite",
                 "active": false
               },
@@ -2339,8 +2375,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/blueprint-2000x2000-800x8002.jpg",
-                "image": "@PROJECT_PATH@/assets/images/blueprint-2000x20006.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blueprint-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blueprint-2000x2000.jpg",
                 "caption": "Product Blueprint",
                 "active": false
               },
@@ -2349,8 +2385,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/image-with-joker-final-2000x2000-800x8003.jpg",
-                "image": "@PROJECT_PATH@/assets/images/image-with-joker-final-2000x20007.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-with-joker-final-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-with-joker-final-2000x2000.jpg",
                 "caption": "Morphing Image Creation",
                 "active": true
               }
@@ -2737,7 +2773,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "file:///C:/Users/Ethan%20&%20Evan/AppData/Local/Mobirise.com/Mobirise/projectData/rogue-one-a-star-wars-story-filming-locations-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rogue-one-a-star-wars-story-filming-locations-2000x1334.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2756,7 +2792,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "file:///C:/Users/Ethan%20&%20Evan/AppData/Local/Mobirise.com/Mobirise/projectData/fullsizerender-1400x2262.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fullsizerender-1400x2262.jpg",
               "link": "",
               "alt": "",
               "title": "",

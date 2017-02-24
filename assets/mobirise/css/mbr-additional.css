@@ -477,6 +477,10 @@ h6,
 #header3-1o .mbr-section-subtitle {
   text-align: center;
 }
+#msg-box8-1u .mbr-section-title,
+#msg-box8-1u p {
+  color: #fff;
+}
 #contacts3-19 P {
   color: #ffffff;
 }
