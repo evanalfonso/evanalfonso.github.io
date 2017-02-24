@@ -1,7 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
 
 
 
@@ -479,6 +480,18 @@ h6,
 }
 #msg-box8-1u .mbr-section-title,
 #msg-box8-1u p {
+  color: #fff;
+}
+#features6-1v P {
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+}
+#header3-1w .mbr-section-title,
+#header3-1w .mbr-section-subtitle {
+  text-align: center;
+}
+#social-buttons4-1x .mbr-section-title,
+#social-buttons4-1x .btn-social {
   color: #fff;
 }
 #contacts3-19 P {
