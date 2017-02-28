@@ -166,7 +166,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "showMeta": true
           },
           "title": "",
@@ -218,17 +218,21 @@
             "P": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "features6-1v",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -252,8 +256,9 @@
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "size": "100",
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title1": "Movie Producer",
@@ -268,8 +273,9 @@
               "family": "socicon",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "size": "100",
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title2": "Cartoon Animator",
@@ -284,8 +290,9 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "size": "100",
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title3": "Movie Editor",
@@ -300,8 +307,9 @@
               "family": "socicon",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "size": "100",
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title4": "NBA",
@@ -341,6 +349,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -351,7 +362,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef",
+            "bgColor": "#000000",
             "showMeta": true
           },
           "title": "A Sample Of My Work",
@@ -411,7 +422,7 @@
             "spacing": "1",
             "showText": true,
             "filter": false,
-            "bgColor": "#efefef",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -438,7 +449,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
