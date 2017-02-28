@@ -30,7 +30,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Evan Alfonso",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -554,7 +554,9 @@
       ]
     },
     "Photoshop.html": {
-      "settings": {},
+      "settings": {
+        "title": "Evan Alfonso"
+      },
       "components": [
         {
           "_styles": {
@@ -740,7 +742,9 @@
       ]
     },
     "Powerpoint.html": {
-      "settings": {},
+      "settings": {
+        "title": "Evan Alfonso"
+      },
       "components": [
         {
           "_styles": {
@@ -924,7 +928,9 @@
       ]
     },
     "Word.html": {
-      "settings": {},
+      "settings": {
+        "title": "Evan Alfonso"
+      },
       "components": [
         {
           "_styles": {
@@ -1108,7 +1114,9 @@
       ]
     },
     "Excel.html": {
-      "settings": {},
+      "settings": {
+        "title": "Evan Alfonso"
+      },
       "components": [
         {
           "_styles": {
@@ -1231,7 +1239,9 @@
       ]
     },
     "Industry Certified Photoshop.html": {
-      "settings": {},
+      "settings": {
+        "title": "Evan Alfonso"
+      },
       "components": [
         {
           "_styles": {
@@ -1355,7 +1365,7 @@
     },
     "Industry Certified AI.html": {
       "settings": {
-        "title": "Website Maker Title",
+        "title": "Evan Alfonso",
         "meta_descr": "Website Maker Description"
       },
       "components": [
@@ -1481,7 +1491,7 @@
     },
     "Industry Certified AP.html": {
       "settings": {
-        "title": "Website Maker Title",
+        "title": "Evan Alfonso",
         "meta_descr": "Website Maker Description"
       },
       "components": [
@@ -1607,7 +1617,7 @@
     },
     "Industry Certified AA.html": {
       "settings": {
-        "title": "Site Creator Title",
+        "title": "Evan Alfonso",
         "meta_descr": "Site Creator Description"
       },
       "components": [
@@ -1733,7 +1743,7 @@
     },
     "Industry Certified DW.html": {
       "settings": {
-        "title": "Web Site Maker Title",
+        "title": "Evan Alfonso",
         "meta_descr": "Web Site Maker Description"
       },
       "components": [
@@ -1859,7 +1869,7 @@
     },
     "Transcript.html": {
       "settings": {
-        "title": "Web Creator Title",
+        "title": "Evan Alfonso",
         "meta_descr": "Web Creator Description"
       },
       "components": [
@@ -1985,7 +1995,7 @@
     },
     "Mr. Pate.html": {
       "settings": {
-        "title": "Site Maker Title",
+        "title": "Evan Alfonso",
         "meta_descr": "Site Maker Description"
       },
       "components": [
@@ -2111,7 +2121,7 @@
     },
     "Teacher.html": {
       "settings": {
-        "title": "Website Creator Title",
+        "title": "Evan Alfonso",
         "meta_descr": "Website Creator Description"
       },
       "components": [
@@ -2237,7 +2247,7 @@
     },
     "Community Member.html": {
       "settings": {
-        "title": "Web Site Generator Title",
+        "title": "Evan Alfonso",
         "meta_descr": "Web Site Generator Description"
       },
       "components": [
@@ -2363,7 +2373,7 @@
     },
     "Gallery.html": {
       "settings": {
-        "title": "Web Page Maker Title",
+        "title": "Evan Alfonso",
         "meta_descr": "Web Page Maker Description"
       },
       "components": [
@@ -2687,7 +2697,7 @@
     },
     "Contact.html": {
       "settings": {
-        "title": "Web Site Maker Title",
+        "title": "Evan Alfonso",
         "meta_descr": "Web Site Maker Description"
       },
       "components": [
@@ -2831,7 +2841,7 @@
     },
     "Introduction.html": {
       "settings": {
-        "title": "Web Creator Title",
+        "title": "Evan Alfonso",
         "meta_descr": "Web Creator Description"
       },
       "components": [
