@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 70,
+    "uniqCompNum": 76,
     "versionPublish": "3.11.1",
     "path": "file:///E:",
     "screenshot": "screenshot.png"
@@ -141,7 +141,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -209,25 +209,37 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "My Goals",
+          "meta": ""
+        },
+        {
           "_inherit": "features3",
           "_tags": [
             "Theme"
           ],
           "_name": "features6",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "text-align": "left",
-              "color": "#ffffff"
-            },
-            "H4": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "features6-1v",
+          "_anchor": "features6-1z",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
@@ -246,7 +258,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -261,10 +273,10 @@
               "newWindow": false
             }
           },
-          "title1": "Movie Producer",
+          "title1": "Movie Director",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Since I was 9 years old I have always wanted to be a movie producer and participate in the '' Behind the scenes'' Buisness.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption1": "Since I was 9 years old I have always wanted to be a movie producer and participate in the '' Behind the scenes'' Buisness. My favorite thing about the role of being a producer is the fact that you take control of the whole set and make sure everything is done correctly. I have had an inspirational person that has inspired me to be a movie director and that is Michael Bay. In my opinion, Michael Bay has the best movies with the best effects and I love his work.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -280,8 +292,8 @@
           },
           "title2": "Cartoon Animator",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Ever since I was a small child I have always loved cartoons. I have had experience with animating before so I believe this would be a good job for me. &nbsp;",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption2": "Ever since I was a small child I have always loved cartoons. I always wondered how animators can make an unrealistic character come to life with out using hands. When I found out how much work it takes to animate just a few seconds of film, it made me look at how impressive these animators are and how much work they put into their job.&nbsp;I have had experience with animating before so I believe this would be a good job for me.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -297,8 +309,8 @@
           },
           "title3": "Movie Editor",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "When I first started working in Photoshop and editing, I instantly fell in love with it. Ever since that moment I knew I wanted to participate in a job that has to do with editing. &nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "When I first started working in Photoshop and editing, I instantly fell in love with it. As you can see below my teacher has assigned us plenty of projects that have to do with photoshop and I find these projects to be exciting and fun when working on them. I have been working in photoshop now for a little over a year. Ever since I started working in photoshop, I knew I wanted to participate in a job that has to do with editing. ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -314,8 +326,8 @@
           },
           "title4": "NBA",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I have always loved basketball and its my favorite thing to do in my free time. It would be amazing if I could play professional basketball.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption4": "I have always loved basketball and its my favorite thing to do in my free time. It would be amazing if I could play professional basketball. I've played in several different leagues and I loved it every time I played. If i had to choose what sport is my favorite it woud be basketball.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -343,7 +355,16 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
@@ -466,6 +487,12 @@
           "_styles": {
             "P": {
               "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-19",
@@ -474,12 +501,12 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/camera-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/directors-seat-2000x1125.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#3C3C3C"
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000"
           },
           "logo": {
             "image": {
@@ -561,6 +588,31 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-20",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Evan Alfonso",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
         }
       ]
     },
@@ -3018,20 +3070,22 @@
           ],
           "_name": "features6",
           "_styles": {
+            "H4": {
+              "color": "#000000"
+            },
             "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#000000",
               "text-align": "left"
             }
           },
-          "_anchor": "features6-1r",
+          "_anchor": "features6-22",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3045,7 +3099,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -3055,14 +3109,15 @@
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "size": "100",
+              "color": "#000000",
+              "newWindow": false
             }
           },
-          "title1": "Movie Producer",
+          "title1": "Movie Director",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Since I was 9 years old I have always wanted to be a movie producer and participate in the '' Behind the scenes'' Buisness.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption1": "Since I was 9 years old I have always wanted to be a movie producer and participate in the '' Behind the scenes'' Buisness. My favorite thing about the role of being a producer is the fact that you take control of the whole set and make sure everything is done correctly. I have had an inspirational person that has inspired me to be a movie director and that is Michael Bay. In my opinion, Michael Bay has the best movies with the best effects and I love his work.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -3071,14 +3126,15 @@
               "family": "socicon",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "size": "100",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title2": "Cartoon Animator",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Ever since I was a small child I have always loved cartoons. I have had experience with animating before so I believe this would be a good job for me. &nbsp;",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption2": "Ever since I was a small child I have always loved cartoons. I always wondered how animators can make an unrealistic character come to life with out using hands. When I found out how much work it takes to animate just a few seconds of film, it made me look at how impressive these animators are and how much work they put into their job.&nbsp;I have had experience with animating before so I believe this would be a good job for me.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -3087,14 +3143,15 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "size": "100",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title3": "Movie Editor",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "When I first started working in Photoshop and editing, I instantly fell in love with it. Ever since that moment I knew I wanted to participate in a job that has to do with editing. &nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "When I first started working in Photoshop and editing, I instantly fell in love with it. As you can see below my teacher has assigned us plenty of projects that have to do with photoshop and I find these projects to be exciting and fun when working on them. I have been working in photoshop now for a little over a year. Ever since I started working in photoshop, I knew I wanted to participate in a job that has to do with editing. ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -3103,14 +3160,15 @@
               "family": "socicon",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#000000"
+              "size": "100",
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title4": "NBA",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I have always loved basketball and its my favorite thing to do in my free time. It would be amazing if I could play professional basketball.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption4": "I have always loved basketball and its my favorite thing to do in my free time. It would be amazing if I could play professional basketball. I've played in several different leagues and I loved it every time I played. If i had to choose what sport is my favorite it woud be basketball.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -3139,6 +3197,38 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "right",
+              "color": "#232323"
+            },
+            "SMALL": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-23",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "Biograpghy Continuation...",
+          "meta": "&nbsp;"
         },
         {
           "_tags": [
@@ -3174,7 +3264,8 @@
             "SMALL": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#232323"
             }
           },
           "_tags": [
@@ -3199,6 +3290,12 @@
           "_styles": {
             "P": {
               "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-1e",
@@ -3207,11 +3304,11 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/camera-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/directors-seat-2000x1125.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.3",
             "overlayColor": "#3C3C3C"
           },
           "logo": {

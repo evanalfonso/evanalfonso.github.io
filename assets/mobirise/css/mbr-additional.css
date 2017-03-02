@@ -1,8 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -482,13 +481,19 @@ h6,
 #msg-box8-1u p {
   color: #fff;
 }
-#features6-1v P {
-  font-family: 'Oswald', sans-serif;
-  text-align: left;
+#header3-1y .mbr-section-title,
+#header3-1y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1y H3 {
   color: #ffffff;
 }
-#features6-1v H4 {
+#features6-1z H4 {
   color: #ffffff;
+}
+#features6-1z P {
+  color: #ffffff;
+  text-align: left;
 }
 #header3-1w .mbr-section-title,
 #header3-1w .mbr-section-subtitle {
@@ -503,6 +508,15 @@ h6,
 }
 #contacts3-19 P {
   color: #ffffff;
+}
+#contacts3-19 STRONG {
+  color: #ffffff;
+}
+#contacts3-19 H4 {
+  color: #ffffff;
+}
+#footer1-20 P {
+  color: #efefef;
 }
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
@@ -1435,6 +1449,7 @@ h6,
 
 
 
+
 #menu-1c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1508,9 +1523,26 @@ h6,
   font-size: 60px;
   text-align: left;
 }
-#features6-1r P {
-  font-family: 'Oswald', sans-serif;
+#features6-22 H4 {
+  color: #000000;
+}
+#features6-22 P {
+  color: #000000;
   text-align: left;
+}
+#header3-23 .mbr-section-title,
+#header3-23 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-23 H3 {
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+  text-align: right;
+  color: #232323;
+}
+#header3-23 SMALL {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
 }
 #content7-1s DIV {
   font-family: 'Oswald', sans-serif;
@@ -1526,7 +1558,14 @@ h6,
 #header3-1t SMALL {
   font-family: 'Oswald', sans-serif;
   font-size: 20px;
+  color: #232323;
 }
 #contacts3-1e P {
+  color: #ffffff;
+}
+#contacts3-1e STRONG {
+  color: #ffffff;
+}
+#contacts3-1e H4 {
   color: #ffffff;
 }
